@@ -6,6 +6,7 @@ local M = {
       "lua",
       "python",
       "rust",
+      "go",
     },
   },
 }

@@ -7,6 +7,7 @@ return {
       "black",
       "ruff",
       "rust-analyzer",
+      "gopls",
     },
   },
 }
